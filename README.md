@@ -1,2 +1,2 @@
-# fresh-playlist-generator
-A small program to generate playlists of songs I haven't heard in a while.
+# spotify-stuff
+A repository of small programs using the spotify API.
